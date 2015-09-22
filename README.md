@@ -13,7 +13,7 @@ The professor will be able to add, remove, edit, and view patients and medicatio
 For Windows 
 ==========================================================================================
 
-Update Windows this will likely take awhile as there will probably be quite a few updates.
+Update Windows.
 
 Install 	> Microsoft SQL Server 2008 SP2 Express Edition Service Pack 2 
  	<http://www.microsoft.com/en-us/download/details.aspx?id=20610>
